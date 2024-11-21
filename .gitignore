@@ -1,12 +1,7 @@
-# Ignore system directories and files
-**/AppData/
-**/Local/
-**/History/
-**/Temporary/
+# Ignore system and user-specific directories
+AppData/
 *.exe
-*.dll
 *.log
 *.bak
-*.swp
+*.o
 .DS_Store
-Thumbs.db
