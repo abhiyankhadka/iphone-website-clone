@@ -1,7 +1,8 @@
-# Ignore system and user-specific directories
+# Ignore AppData and other system files
 AppData/
 *.exe
 *.log
 *.bak
 *.o
 .DS_Store
+
