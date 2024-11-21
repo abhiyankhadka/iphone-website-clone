@@ -1,17 +1,12 @@
-# Ignore system files and directories
-AppData/
-Documents/
-Downloads/
-Favorites/
-My Documents/
-Music/
-OneDrive/
-Pictures/
-Videos/
+# Ignore system directories and files
+**/AppData/
+**/Local/
+**/History/
+**/Temporary/
 *.exe
 *.dll
-.vscode/
-.cache/
-*.c
 *.log
-*.dat
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
