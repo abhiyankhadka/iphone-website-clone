@@ -1,0 +1,17 @@
+# Ignore system files and directories
+AppData/
+Documents/
+Downloads/
+Favorites/
+My Documents/
+Music/
+OneDrive/
+Pictures/
+Videos/
+*.exe
+*.dll
+.vscode/
+.cache/
+*.c
+*.log
+*.dat
