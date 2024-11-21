@@ -1,8 +1,16 @@
-# Ignore AppData and other system files
+# Ignore system and personal directories
 AppData/
+Cookies/
+Documents/
+Downloads/
+Favorites/
+OneDrive/
+Saved\ Games/
+Searches/
+Videos/
+Templates/
 *.exe
 *.log
 *.bak
 *.o
 .DS_Store
-
